@@ -1,1 +1,1 @@
-# automatic-octo-umbrella
+Supports latest Version of Pfsense 2.8.1. The portal pages are using $PORTAL_ACTION$ and $PORTAL_REDIRURL$ to get data from the firewall backend. Authentication requests are send with POST requests to the firewall.
