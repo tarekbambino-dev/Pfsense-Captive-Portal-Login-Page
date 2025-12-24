@@ -1,4 +1,4 @@
-# :lock::door: [pfsense Captive Portal Login Template ](https://doc.pfsense.org/index.php/Captive_Portal)
+# :lock: [pfsense Captive Portal Login Template ](https://doc.pfsense.org/index.php/Captive_Portal) :lock:
                Pfsense Login pages Template for your captive portal.
 
 <img src="Screenshot 2025-12-17 120337.png" alt="screenshot image of desktop" width="600" />
